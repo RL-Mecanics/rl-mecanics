@@ -16,6 +16,8 @@ Créer un site web évolutif autour du mécaniques et du freestyle sue Rocket Le
 ## 🧱 Repository du projet
 > Ce projet est composé de plusieurs repository public et privé.
 
+---
+
 ### 🔹 `rl-mecanics` (public)
 - **Techno :** *Aucune pour le moment…*
 - **Contenu :** Présentation du projet et de l'équipe
