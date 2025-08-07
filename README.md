@@ -48,5 +48,6 @@ Créer un site web évolutif autour du mécaniques et du freestyle sue Rocket Le
 
 ---
 
-## 🗂 Structure globale
+## 🗂 L'équipe du projet
+- **OverCam** : Administrateur/Owner
 
