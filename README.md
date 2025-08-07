@@ -4,7 +4,7 @@
 
 ---
 
-## 🎯 Objectif
+## 🎯 Pages & Objectifs
 
 Créer un site web évolutif autour du **freestyle Rocket League**, avec :
 - Un **wiki** collaboratif (mécaniques, joueurs, teams…)
@@ -19,7 +19,6 @@ Créer un site web évolutif autour du **freestyle Rocket League**, avec :
 ### 🔹 `rl-mecanics` (public)
 - **Techno :** *Aucune pour le moment...*
 - **Contenu :** Présentation du projet et de l'équipe
-- **Fonction :** Présenter leprojet et lister les collaborateurs
 
 ---
 
@@ -49,8 +48,3 @@ Créer un site web évolutif autour du **freestyle Rocket League**, avec :
 
 ## 🗂 Structure globale
 
-
-:package: freestyle-hub-frontend     → Interface utilisateur
-:package: freestyle-hub-cms          → Wiki / CMS via Strapi
-:package: freestyle-hub-api          → Backend custom (tournois, vidéos, etc.)
-:globe_with_meridians: frontend <--> strapi + api
