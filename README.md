@@ -1,14 +1,15 @@
 # rl-mecanics
 
-> Plateforme communautaire dédiée aux mécaniques et au freestyle sur Rocket League : wiki, profils joueurs, forum, etc...
+> Plateforme communautaire dédiée aux mécaniques et au freestyle sur Rocket League : wiki, profils joueurs, forum, etc…
 
 ---
 
 ## 🎯 Pages & Objectifs
 
-Créer un site web évolutif autour du **freestyle Rocket League**, avec :
-- Un **wiki** collaboratif (mécaniques, joueurs, teams…)
-- Un **espace communautaire** (classements, tournois, soumission de records)
+Créer un site web évolutif autour du mécaniques et du freestyle sue Rocket League**, avec :
+- Un **wiki** collaboratif (mécaniques, catégorie, freestyle, playstyle, etc…)
+- Un **forum** (soon…)
+-   (classements, tournois, soumission de records)
 - Une architecture ouverte aux extensions : **bot Discord**, **plugin BakkesMod**, **app mobile**, etc.
 
 ---
