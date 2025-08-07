@@ -5,9 +5,6 @@
 ---
 
 ## 🎯 Objectif
-> Le projet est composé de plusieurs repository, un public, et plusieurs repo privé.
-
----
 
 Créer un site web évolutif autour du **freestyle Rocket League**, avec :
 - Un **wiki** collaboratif (mécaniques, joueurs, teams…)
@@ -17,6 +14,7 @@ Créer un site web évolutif autour du **freestyle Rocket League**, avec :
 ---
 
 ## 🧱 Dépôts du projet
+> Le projet est composé de plusieurs repository, un public de présentation, et plusieurs privé pour la logique front & back.
 
 ### 🔹 `freestyle-hub-frontend` (privé)
 - **Techno :** React ou Next.js (JS/TS)
