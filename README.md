@@ -13,10 +13,17 @@ Créer un site web évolutif autour du **freestyle Rocket League**, avec :
 
 ---
 
-## 🧱 Dépôts du projet
-> Le projet est composé de plusieurs repository, un public de présentation, et plusieurs privé pour la logique front & back.
+## 🧱 Repository du projet
+> Ce projet est composé de plusieurs repository public et privé.
 
-### 🔹 `freestyle-hub-frontend` (privé)
+### 🔹 `rl-mecanics` (public)
+- **Techno :** *Aucune pour le moment...*
+- **Contenu :** Présentation du projet et de l'équipe
+- **Fonction :** Présenter leprojet et lister les collaborateurs
+
+---
+
+### 🔹 `rl-mecanics-frontend` (privé)
 - **Techno :** React ou Next.js (JS/TS)
 - **Contenu :** Interface principale du site
 - **Fonction :** Affiche le contenu wiki + fonctionnalités interactives
@@ -24,7 +31,7 @@ Créer un site web évolutif autour du **freestyle Rocket League**, avec :
 
 ---
 
-### 🔹 `freestyle-hub-cms` (privé)
+### 🔹 `rl-mecanics-cms` (privé)
 - **Techno :** Strapi (Node.js, JS/TS)
 - **Contenu :** Wiki, profils joueurs/teams, mécaniques
 - **Fonction :** CMS avec interface admin + API REST publique
@@ -32,7 +39,7 @@ Créer un site web évolutif autour du **freestyle Rocket League**, avec :
 
 ---
 
-### 🔹 `freestyle-hub-api` (privé)
+### 🔹 `rl-mecanics-api` (privé)
 - **Techno :** NestJS (TypeScript)
 - **Contenu :** Tournois, classements, vidéos, soumission, logic métier
 - **Fonction :** API REST personnalisée pour les fonctionnalités avancées
