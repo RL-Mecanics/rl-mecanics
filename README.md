@@ -1,10 +1,13 @@
 # rl-mecanics
 
-> Plateforme communautaire dédiée au freestyle sur Rocket League : partage de mécaniques, profils de joueurs, équipes, records vidéo, tournois, et plus.
+> Plateforme communautaire dédiée aux mécaniques et au freestyle sur Rocket League : wiki des mécaniques, profils joueurs, forum, etc...
 
 ---
 
 ## 🎯 Objectif
+> Le projets est composé de plusieurs repository, un repo public, et plusieurs repo privé.
+
+---
 
 Créer un site web évolutif autour du **freestyle Rocket League**, avec :
 - Un **wiki** collaboratif (mécaniques, joueurs, teams…)
