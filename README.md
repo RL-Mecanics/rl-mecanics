@@ -18,7 +18,7 @@ Créer un site web évolutif autour du mécaniques et du freestyle sue Rocket Le
 
 ---
 
-### 🔹 `rl-mecanics` (public)
+🔹 `rl-mecanics` (public)
 - **Techno :** *Aucune pour le moment…*
 - **Contenu :** Présentation du projet et de l'équipe
 
@@ -40,7 +40,7 @@ Créer un site web évolutif autour du mécaniques et du freestyle sue Rocket Le
 
 ---
 
-### 🔹 `rl-mecanics-api` (privé)
+🔹 `rl-mecanics-api` (privé)
 - **Techno :** NestJS (TypeScript)
 - **Contenu :** Tournois, classements, vidéos, soumission, logic métier
 - **Fonction :** API REST personnalisée pour les fonctionnalités avancées
