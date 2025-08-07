@@ -13,7 +13,7 @@ Créer un site web évolutif autour du mécaniques et du freestyle sur Rocket Le
 
 ---
 
-## 🧱 Repository du projet
+## 🧱 Repository
 > Ce projet est composé de plusieurs repository public et privé.
 
 ---
