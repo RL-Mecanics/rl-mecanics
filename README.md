@@ -1,4 +1,4 @@
-# rl-mecanics
+# RL Mecanics
 
 > Plateforme communautaire dédiée aux mécaniques et au freestyle sur Rocket League : wiki, profils joueurs, forum, etc…
 
