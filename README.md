@@ -6,7 +6,7 @@
 
 ## 🎯 Pages & Objectifs
 
-Créer un site web évolutif autour du mécaniques et du freestyle sue Rocket League**, avec :
+Créer un site web évolutif autour du mécaniques et du freestyle sur Rocket League, avec :
 - Un **wiki** collaboratif (mécaniques, catégorie, freestyle, playstyle, etc…)
 - Un **forum** (soon…)
 - Une **page d'actualité** (soon…)
