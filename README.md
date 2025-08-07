@@ -48,6 +48,8 @@ Créer un site web évolutif autour du mécaniques et du freestyle sur Rocket Le
 
 ---
 
-## 🗂 L'équipe du projet
+## ❔ Qui sommes-nous ?
+
+Les membres de l'équipe :
 - **OverCam** : Administrateur/Owner
 
