@@ -24,7 +24,7 @@ Créer un site web évolutif autour du mécaniques et du freestyle sue Rocket Le
 
 ---
 
-### 🔹 `rl-mecanics-frontend` (privé)
+🔹 `rl-mecanics-frontend` (privé)
 - **Techno :** React ou Next.js (JS/TS)
 - **Contenu :** Interface principale du site
 - **Fonction :** Affiche le contenu wiki + fonctionnalités interactives
@@ -32,7 +32,7 @@ Créer un site web évolutif autour du mécaniques et du freestyle sue Rocket Le
 
 ---
 
-### 🔹 `rl-mecanics-cms` (privé)
+🔹 `rl-mecanics-cms` (privé)
 - **Techno :** Strapi (Node.js, JS/TS)
 - **Contenu :** Wiki, profils joueurs/teams, mécaniques
 - **Fonction :** CMS avec interface admin + API REST publique
