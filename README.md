@@ -9,8 +9,7 @@
 Créer un site web évolutif autour du mécaniques et du freestyle sue Rocket League**, avec :
 - Un **wiki** collaboratif (mécaniques, catégorie, freestyle, playstyle, etc…)
 - Un **forum** (soon…)
--   (classements, tournois, soumission de records)
-- Une architecture ouverte aux extensions : **bot Discord**, **plugin BakkesMod**, **app mobile**, etc.
+- Une **page d'actualité** (soon…)
 
 ---
 
@@ -18,7 +17,7 @@ Créer un site web évolutif autour du mécaniques et du freestyle sue Rocket Le
 > Ce projet est composé de plusieurs repository public et privé.
 
 ### 🔹 `rl-mecanics` (public)
-- **Techno :** *Aucune pour le moment...*
+- **Techno :** *Aucune pour le moment…*
 - **Contenu :** Présentation du projet et de l'équipe
 
 ---
